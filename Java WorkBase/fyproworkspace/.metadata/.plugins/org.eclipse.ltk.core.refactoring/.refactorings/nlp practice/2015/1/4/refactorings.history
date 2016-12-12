@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;NLP practice&apos;&#x0A;- Original project: &apos;NLP practice&apos;&#x0A;- Destination element: &apos;NLP practice&apos;&#x0A;- Original elements:&#x0A;     da-pos-maxent.bin&#x0A;     da-token.bin&#x0A;- Update references to refactored element" description="Move files" destination="=NLP practice" element1="trainedModels/da-pos-maxent.bin" element2="trainedModels/da-token.bin" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1421826638863" units="0" version="1.0"/>
+</session>

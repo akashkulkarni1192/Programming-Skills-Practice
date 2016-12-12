@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server hostname="localhost" id="J2EE Preview at localhost" name="J2EE Preview at localhost" runtime-id="J2EE Preview" server-type="org.eclipse.jst.server.preview.server" server-type-id="org.eclipse.jst.server.preview.server" start-timeout="240" stop-timeout="240" timestamp="9">
+    <list key="modules" value0="ServletFileDownload::org.eclipse.jst.jee.server:ServletFileDownload::jst.web::3.0" value1="RequestDispatcherDemo::org.eclipse.jst.jee.server:RequestDispatcherDemo::jst.web::3.0" value2="GoogleSendRedirectDemo::org.eclipse.jst.jee.server:GoogleSendRedirectDemo::jst.web::3.0" value3="HTTPSessionManagement::org.eclipse.jst.jee.server:HTTPSessionManagement::jst.web::3.0" value4="SessionTrackingDemo::org.eclipse.jst.jee.server:SessionTrackingDemo::jst.web::3.0" value5="JSPOddEven::org.eclipse.jst.jee.server:JSPOddEven::jst.web::3.0"/>
+  </server>
+</servers>

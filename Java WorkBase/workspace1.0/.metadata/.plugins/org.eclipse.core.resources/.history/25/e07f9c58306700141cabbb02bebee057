@@ -1,0 +1,12 @@
+import com.mongodb.MongoClient;
+
+
+public class ServerClass {
+
+	public void checkAuthentication(String uname, String passwd) {
+		MongoClient server = new MongoClient("localhost" , 27017);
+		
+		
+	}
+
+}

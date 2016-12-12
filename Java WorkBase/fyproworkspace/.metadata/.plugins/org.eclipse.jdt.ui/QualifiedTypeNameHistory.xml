@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.mongodb.DBConnector"/>
+<fullyQualifiedTypeName name="SignUpClass"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="DataBaseConnector"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="pack.LoginClass"/>
+<fullyQualifiedTypeName name="java.nio.channels.AcceptPendingException"/>
+<fullyQualifiedTypeName name="pack.WallServlet"/>
+<fullyQualifiedTypeName name="pack.LoginServlet"/>
+<fullyQualifiedTypeName name="pack.DataBaseConnector"/>
+<fullyQualifiedTypeName name="com.mongodb.DBCollection"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="com.mongodb.DBCursor"/>
+<fullyQualifiedTypeName name="com.mongodb.BasicDBList"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="opennlp.tools.stemmer.Stemmer"/>
+<fullyQualifiedTypeName name="NLPClass.MyStemmer"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="org.tartarus.snowball.ext.PorterStemmer"/>
+<fullyQualifiedTypeName name="opennlp.tools.sentdetect.SentenceModel"/>
+<fullyQualifiedTypeName name="opennlp.tools.sentdetect.SentenceDetectorME"/>
+<fullyQualifiedTypeName name="opennlp.tools.tokenize.Tokenizer"/>
+<fullyQualifiedTypeName name="Vector"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="WordNetClass"/>
+<fullyQualifiedTypeName name="edu.smu.tspell.wordnet.SynsetType"/>
+<fullyQualifiedTypeName name="edu.smu.tspell.wordnet.AdjectiveSynset"/>
+<fullyQualifiedTypeName name="MyWordNetTryout"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="edu.smu.tspell.wordnet.Synset"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="MoodAnalyser"/>
+<fullyQualifiedTypeName name="com.mongodb.BasicDBObject"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,9 @@
+Representing graph
+	same for adjacency list and matrix
+		where as one list for one vertex is corresponding row in a matrix representation
+Traversal
+	BFS
+	DFS ( changed two line thats all)
+Detecting Cycle
+	DFS
+	Union Find Algorithm (http://www.geeksforgeeks.org/union-find)

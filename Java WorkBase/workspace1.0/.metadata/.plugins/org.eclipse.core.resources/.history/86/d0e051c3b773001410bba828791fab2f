@@ -1,0 +1,9 @@
+import java.util.Scanner;
+
+
+public class MainPage {
+	public MainPage(){
+		Scanner scan = new Scanner(System.in);
+		System.out.println("PAGE : \n1.SignUP\n2.LoginIn");
+	}
+}

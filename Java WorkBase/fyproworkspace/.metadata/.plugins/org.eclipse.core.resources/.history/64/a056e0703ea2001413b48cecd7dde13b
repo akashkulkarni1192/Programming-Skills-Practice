@@ -1,0 +1,46 @@
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.util.HashMap;
+import java.util.Scanner;
+//FileOutputStream out = new FileOutputStream("test.txt");
+//ObjectOutputStream oout = new ObjectOutputStream(out);
+
+public class FileHandler {
+	public static void main(String[] args) {
+		FileHandler handler = new FileHandler();
+		handler.inputIntoFile();
+	}
+	public void inputIntoFile(){
+		Scanner scan = new Scanner(System.in);
+		String word;
+		int hap,sad,ang,sur;
+		HashMap map = new HashMap();
+		
+		try {
+			FileOutputStream out = new FileOutputStream("vectorValues.txt");
+			while(true){
+				System.out.println("Enter word : ");
+				word = scan.next();
+				System.out.println("Enter Vector values <happy,sad,angry,surprise> :");
+				hap = scan.nextInt();
+				sad = scan.nextInt();
+				ang = scan.nextInt();
+				sur = scan.nextInt();
+				
+			}
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+}
+class Vector{
+	int happy,sad,angry,surprise;
+	public Vector(int hap,int sad,int ang,int sur){
+		happy = hap;
+		this.sad = sad;
+		angry = ang;
+		surprise = sur;
+	}
+}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.127
+/home/akash/Dropbox/Back Up Programs/Java WorkBase/orphan codes/ServletAdder/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1720435685.index
+/AkritiSeminar/src
+/home/akash/Dropbox/Back Up Programs/Java WorkBase/orphan codes/ServletAdder/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2194930300.index
+/AkritiSeminar/src

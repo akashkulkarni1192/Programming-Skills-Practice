@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="FyProV1" name="FyProV1" path="/home/akash/Dropbox/Back Up Programs/Java WorkBase/FyProWorkspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/FyProV1" type="j2ee"/>
+  <module context="FyProV2" name="FyProV2" path="/home/akash/Dropbox/Back Up Programs/Java WorkBase/FyProWorkspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/FyProV2" type="j2ee"/>
+</server>

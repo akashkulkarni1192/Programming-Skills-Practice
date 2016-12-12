@@ -1,0 +1,7 @@
+Problem can be solved by Dynamic Programming if both conditions suffices :
+	1. Overlapping subproblems : values can be solved using two techniques
+		1.1 Top Down Approach ( Memoization): examples -
+			- memoFibonacci
+		1.2 Bottom Down Approach (Tabulation)
+	2. Optimal Substructure
+

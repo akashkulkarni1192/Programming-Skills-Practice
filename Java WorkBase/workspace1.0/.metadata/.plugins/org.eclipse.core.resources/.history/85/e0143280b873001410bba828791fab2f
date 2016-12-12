@@ -1,0 +1,7 @@
+
+public class SignUpClass {
+	String userName ; // This will be "_id"
+	public void getDetails(){
+		System.out.println("Enter ");
+	}
+}

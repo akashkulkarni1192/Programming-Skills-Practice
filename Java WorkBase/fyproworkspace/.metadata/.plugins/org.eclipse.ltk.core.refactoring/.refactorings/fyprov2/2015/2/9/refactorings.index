@@ -1,0 +1,6 @@
+1424689736562	Delete elements
+1424689784692	Move 'web.xml' to 'lib'
+1424690102893	Move 'web.xml' to 'WEB-INF'
+1424690150061	Move 4 resources to 'WebContent'
+1424690364286	Move 2 resources to 'WebContent'
+1424690426652	Move 'mongo-java-driver-2.11.3.jar' to 'lib'
