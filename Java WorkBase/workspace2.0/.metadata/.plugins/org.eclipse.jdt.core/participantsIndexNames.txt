@@ -1,3 +1,0 @@
-INDEX VERSION 1.127
-/home/akash/Dropbox/Back Up Programs/Java WorkBase/workspace2.0/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/329593491.index
-/JSPOddEven/src

@@ -1,7 +1,0 @@
-INDEX VERSION 1.127
-/home/akash/Dropbox/Back Up Programs/Java WorkBase/FyProWorkspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2245338121.index
-/FyProV2/src
-/home/akash/Dropbox/Back Up Programs/Java WorkBase/FyProWorkspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4065064697.index
-/FyProV1/src
-/home/akash/Dropbox/Back Up Programs/Java WorkBase/FyProWorkspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/498998020.index
-/FyProV2/src

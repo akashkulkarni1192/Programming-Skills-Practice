@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Inline local variable &apos;NLPClass.stemmingDemo().scan&apos; in &apos;NLPClass.stemmingDemo()&apos;&#x0A;- Original project: &apos;NLP&apos;&#x0A;- Original element: &apos;NLPClass.stemmingDemo().scan&apos;" description="Inline local variable &apos;scan&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/src&lt;{NLPClass.java" selection="3477 29" stamp="1422351689686" version="1.0"/>
-</session>

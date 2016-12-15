@@ -1,3 +1,0 @@
-This is file 2 
-
-At line 3 This is printing

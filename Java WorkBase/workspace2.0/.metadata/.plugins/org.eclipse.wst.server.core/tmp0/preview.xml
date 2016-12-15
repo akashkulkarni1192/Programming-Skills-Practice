@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<server port="8080">
-  <module context="ServletFileDownload" name="ServletFileDownload" path="/home/akash/Dropbox/Back Up Programs/Java WorkBase/workspace2.0/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/ServletFileDownload" type="j2ee"/>
-  <module context="RequestDispatcherDemo" name="RequestDispatcherDemo" path="/home/akash/Dropbox/Back Up Programs/Java WorkBase/workspace2.0/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/RequestDispatcherDemo" type="j2ee"/>
-  <module context="GoogleSendRedirectDemo" name="GoogleSendRedirectDemo" path="/home/akash/Dropbox/Back Up Programs/Java WorkBase/workspace2.0/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/GoogleSendRedirectDemo" type="j2ee"/>
-  <module context="HTTPSessionManagement" name="HTTPSessionManagement" path="/home/akash/Dropbox/Back Up Programs/Java WorkBase/workspace2.0/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/HTTPSessionManagement" type="j2ee"/>
-  <module context="SessionTrackingDemo" name="SessionTrackingDemo" path="/home/akash/Dropbox/Back Up Programs/Java WorkBase/workspace2.0/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/SessionTrackingDemo" type="j2ee"/>
-  <module context="JSPOddEven" name="JSPOddEven" path="/home/akash/Dropbox/Back Up Programs/Java WorkBase/workspace2.0/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/JSPOddEven" type="j2ee"/>
-</server>
